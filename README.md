@@ -1,3 +1,4 @@
+![Power BI Dashboard](dashboard.png)
 # 🛒 E-Commerce Supply Chain & Financial Operations Dashboard
 
 **An end-to-end data analytics project deploying advanced Excel and Power BI architectures to optimize logistics and financial tracking.**
